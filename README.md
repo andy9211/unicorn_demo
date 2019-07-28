@@ -8,7 +8,7 @@ this is a demo for arm so simulation.
   pip install capstone-windows
   pip install unicorn
 ```
-## refernce:
+## reference:
 ```
 基于Unicorn 的ARM64 OLLVM反混淆:
 https://bbs.pediy.com/thread-252321.htm
